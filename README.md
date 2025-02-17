@@ -7,7 +7,7 @@ The **Tomato Leaf Disease Classifier** is a deep learning-based project that cla
 ![image](https://github.com/user-attachments/assets/378e6dd5-495e-4e55-a410-dd7ea17fcad3)
 
 🔗 **Try it here:** [Hugging Face Space](https://huggingface.co/spaces/mathblender17/tomato_classidier)
-
+**Repo Files :** [Hugging Face Repo](https://huggingface.co/spaces/mathblender17/tomato_classidier/tree/main)
 ## 📂 Dataset
 - **Source:** [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)
 - **Categories:**
